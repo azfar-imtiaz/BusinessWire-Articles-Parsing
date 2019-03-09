@@ -1,0 +1,6 @@
+spacy==2.0.16
+html2text==2018.1.9
+nltk==3.4
+newspaper3k==0.2.8
+bs4==0.0.1
+selenium==3.141.0
